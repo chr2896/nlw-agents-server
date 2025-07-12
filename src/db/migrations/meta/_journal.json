@@ -8,6 +8,13 @@
       "when": 1752159002922,
       "tag": "0000_last_wind_dancer",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752284482559,
+      "tag": "0001_gigantic_speedball",
+      "breakpoints": true
     }
   ]
 }
